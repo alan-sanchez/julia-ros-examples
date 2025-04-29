@@ -87,7 +87,7 @@ This repository shows examples in how to integrate Julia with the Robot Operatin
     roslaunch fetch_gazebo simulation.launch 
     ```
 
-    In another terminal, navigate to the src directory and type the following to get the robot moving forward:
+    In another terminal, navigate to the src directory and run the [**move**](src/move.jl) node by typing the following:
 
      ```bash
     # terminal 2
