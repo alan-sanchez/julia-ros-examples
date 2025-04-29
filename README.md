@@ -57,7 +57,7 @@ This repository shows examples in how to integrate Julia with the Robot Operatin
     roscore
     ```
 
-    Then, in a new terminal, navigate to the package's src directory and run the Julia script, `talker.jl`. 
+    Then, in a new terminal, navigate to the package's src directory and run the Julia script, [**talker**](src/talker.jl). 
 
     ```bash
     # terminal 2
@@ -65,7 +65,7 @@ This repository shows examples in how to integrate Julia with the Robot Operatin
     julia talker.jl
     ```
 
-    In a third terminal, navigate to the src directory again and run the `listener.jl` node
+    In a third terminal, navigate to the src directory again and run the [**listener**](src/listener.jl) node
 
     ```bash
     # terminal 3
