@@ -1,6 +1,7 @@
 # Julia ROS Examples 🚀
 
-This repository shows examples in how to integrate Julia with the Robot Operating System (ROS) using the [RobotOS.jl](https://github.com/jdlangs/RobotOS.jl) package. 
+This repository shows examples in how to integrate Julia with the Robot Operating System (ROS) using the [RobotOS.jl](https://github.com/jdlangs/RobotOS.jl) package. This work is references the [Tutorial](https://github.com/mattborghi/ros-julia-examples) from `mattborghi`.
+
 
 ## Setup & Installation
 
@@ -101,7 +102,7 @@ This repository shows examples in how to integrate Julia with the Robot Operatin
     ![](media/move_example.gif)
 
 
-## Other Resources
+## Other Resources and References
 
 - **RobotOS.jl Documentation**: [https://jdlangs.github.io/RobotOS.jl/latest/](https://jdlangs.github.io/RobotOS.jl/latest/)
 - **ROS Melodic Installation Guide**: [http://wiki.ros.org/melodic/Installation/Ubuntu](http://wiki.ros.org/melodic/Installation/Ubuntu)
