@@ -12,7 +12,7 @@ using RobotOS
 rostypegen()
 
 ## The StringMsg type is in the current namespace. Julia already has built-in `String` type
-## so renamed to `StringMsg`
+## so renamed to `StringMsg`. This is the only incident where you have to rename the message type
 using .std_msgs.msg: StringMsg
 
 function callback(msg)
