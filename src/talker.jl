@@ -11,7 +11,7 @@ using RobotOS
 ## definitions into Julia types and functions
 rostypegen()
 
-## THe StringMsg type is in the current namespace. Julia already has built-in `String` type
+## The StringMsg type is in the current namespace. Julia already has built-in `String` type
 ## so renamed to `StringMsg`. This is the only incident where you have to rename the message type
 using .std_msgs.msg: StringMsg
 
